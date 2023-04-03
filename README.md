@@ -11,10 +11,6 @@ Bonjour 👋
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="60" />
-  </a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" height="60" />
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="60" />
   </a>
